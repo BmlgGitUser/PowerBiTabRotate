@@ -6,32 +6,32 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://app.powerbi.com/Redirect?action=OpenReport&appId=36adffa1-1a24-4399-a83d-b34ddfbdf7e6&reportObjectId=994af8e9-85fd-4c25-9fd6-29ac60b94bd7&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&reportPage=ReportSectionf32dfdf4759dc122132d&pbi_source=appShareLink&portalSessionId=eec98caf-7cb1-40c1-9d71-7eabf51226b6",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZmRmODItY2QxYi00OWRmLWE2NjgtN2UxNzQ0MzRhMGU0IiwidCI6IjY4NDA4ODY4LTIwZDYtNDU2YS1iZWVjLTViYzMxNDhmYmRkOSIsImMiOjN9&pageName=ReportSectionf32dfdf4759dc122132d",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/Redirect?action=OpenReport&appId=36adffa1-1a24-4399-a83d-b34ddfbdf7e6&reportObjectId=994af8e9-85fd-4c25-9fd6-29ac60b94bd7&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&reportPage=ReportSectionf38254b7986c6798b0c0&pbi_source=appShareLink&portalSessionId=eec98caf-7cb1-40c1-9d71-7eabf51226b6",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZmRmODItY2QxYi00OWRmLWE2NjgtN2UxNzQ0MzRhMGU0IiwidCI6IjY4NDA4ODY4LTIwZDYtNDU2YS1iZWVjLTViYzMxNDhmYmRkOSIsImMiOjN9&pageName=ReportSectionf38254b7986c6798b0c0",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/Redirect?action=OpenReport&appId=36adffa1-1a24-4399-a83d-b34ddfbdf7e6&reportObjectId=994af8e9-85fd-4c25-9fd6-29ac60b94bd7&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&reportPage=ReportSectione09abf00378f5815665f&pbi_source=appShareLink&portalSessionId=eec98caf-7cb1-40c1-9d71-7eabf51226b6",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZmRmODItY2QxYi00OWRmLWE2NjgtN2UxNzQ0MzRhMGU0IiwidCI6IjY4NDA4ODY4LTIwZDYtNDU2YS1iZWVjLTViYzMxNDhmYmRkOSIsImMiOjN9&pageName=ReportSectione09abf00378f5815665f",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/Redirect?action=OpenReport&appId=36adffa1-1a24-4399-a83d-b34ddfbdf7e6&reportObjectId=994af8e9-85fd-4c25-9fd6-29ac60b94bd7&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&reportPage=ReportSection643c322e4eff15408243&pbi_source=appShareLink&portalSessionId=eec98caf-7cb1-40c1-9d71-7eabf51226b6",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZmRmODItY2QxYi00OWRmLWE2NjgtN2UxNzQ0MzRhMGU0IiwidCI6IjY4NDA4ODY4LTIwZDYtNDU2YS1iZWVjLTViYzMxNDhmYmRkOSIsImMiOjN9&pageName=ReportSection643c322e4eff15408243",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/Redirect?action=OpenReport&appId=36adffa1-1a24-4399-a83d-b34ddfbdf7e6&reportObjectId=994af8e9-85fd-4c25-9fd6-29ac60b94bd7&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&reportPage=ReportSection99c3b3c0453768358976&pbi_source=appShareLink&portalSessionId=eec98caf-7cb1-40c1-9d71-7eabf51226b6",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZmRmODItY2QxYi00OWRmLWE2NjgtN2UxNzQ0MzRhMGU0IiwidCI6IjY4NDA4ODY4LTIwZDYtNDU2YS1iZWVjLTViYzMxNDhmYmRkOSIsImMiOjN9&pageName=ReportSection99c3b3c0453768358976",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://app.powerbi.com/Redirect?action=OpenReport&appId=36adffa1-1a24-4399-a83d-b34ddfbdf7e6&reportObjectId=994af8e9-85fd-4c25-9fd6-29ac60b94bd7&ctid=68408868-20d6-456a-beec-5bc3148fbdd9&reportPage=ReportSection6bdd41d4bd551dbb22b3&pbi_source=appShareLink&portalSessionId=eec98caf-7cb1-40c1-9d71-7eabf51226b6",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiYTQ1ZmRmODItY2QxYi00OWRmLWE2NjgtN2UxNzQ0MzRhMGU0IiwidCI6IjY4NDA4ODY4LTIwZDYtNDU2YS1iZWVjLTViYzMxNDhmYmRkOSIsImMiOjN9&pageName=ReportSection6bdd41d4bd551dbb22b3",
       "duration": 20,
       "tabReloadIntervalSeconds": 15
     }
